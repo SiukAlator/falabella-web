@@ -31,8 +31,8 @@
 4. Ejecutar "node index.js" Node levantará el servicio y quedará ejecutandose.<br/>
 
  *Consierar que para el presente ejemplo, se estableció un token estático para las consultas* <br/>
- <img src="/others/1.png" /><br/>
- <img src="/others/2.png" /><br/>
+<img src="/others/1.png" /><br/>
+<img src="/others/2.png" width="500px"/><br/>
 
 
 ### Mas Opciones de Make:
