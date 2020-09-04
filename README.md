@@ -30,7 +30,10 @@
 3. Ejecutar "npm install". Node instalará todos los componentes necesarios.<br/>
 4. Ejecutar "node index.js" Node levantará el servicio y quedará ejecutandose.<br/>
 
- *Consierar que para el presente ejemplo, se estableció un token estático para las consultas* <br/>
+*Consierar que para el presente ejemplo, se estableció un token estático para las consultas* <br/>
+
+### Vistas web:
+
 <img src="/others/1.png" /><br/>
 <img src="/others/2.png" width="500px"/><br/>
 
