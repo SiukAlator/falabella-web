@@ -49,7 +49,7 @@ const mapDispatchToProps = dispatch => ({
                 "x-user-browser": navigator.appCodeName + ' - ' +navigator.appVersion,
                 "phone": stateIn.phone,
                 "renta": stateIn.renta,
-                "x-user-os": navigator.oscpu
+                "x-user-os": navigator.platform
             }
           }).then(response => {
             if (response.data.code === "200")
